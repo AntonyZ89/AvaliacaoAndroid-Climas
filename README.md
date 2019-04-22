@@ -1,2 +1,8 @@
 # AvaliacaoAndroid-Climas
-Climas de cidades usando API OpenWeatherMap
+
+Aplicativo Android que exibe climas de cidades usando API [OpenWeatherMap](https://openweathermap.org/)
+
+Desenvolvido em <b>Java</b>
+
+
+![Exemplo](https://i.imgur.com/XQX1UgQ.png)
